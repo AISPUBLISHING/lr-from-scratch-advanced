@@ -62,9 +62,9 @@ Enroll in the course and become a data scientist today!
 
 
 Who this course is for:
-•	This course is for you if you want to learn how to program in Python for Machine Learning
-•	This course is for you if you want to make a predictive analysis model
-•	This course is for you if you are tired of Machine Learning courses that are too complicated and expensive
-•	This course is for you if you want to learn Python by doing
-•	This course is for someone who is absolute beginner and have very little idea of machine learning
-•	This course is for someone who want to learn Logistic regression from zero to hero
+* This course is for you if you want to learn how to program in Python for Machine Learning
+*	This course is for you if you want to make a predictive analysis model
+*	This course is for you if you are tired of Machine Learning courses that are too complicated and expensive
+* This course is for you if you want to learn Python by doing
+* This course is for someone who is absolute beginner and have very little idea of machine learning
+*	This course is for someone who want to learn Logistic regression from zero to hero
